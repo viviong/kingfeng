@@ -106,10 +106,10 @@ export default {
     };
   },
   mounted () {
-    console.log('By:qifeng https://github.com/QiFengg')
+    console.log('By:qifeng https://github.com/viviong')
   },
   async created () {
-    document.title = '我有个朋友 - 登录页面'
+    document.title = 'viviong - 登录页面'
 
     const uid = localStorage.getItem('uid')
     const adminkey = localStorage.getItem('adminkey')
