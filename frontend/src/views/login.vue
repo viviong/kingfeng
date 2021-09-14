@@ -7,7 +7,7 @@
       <div class="ant-card-head">
         <div class="ant-card-head-wrapper">
           <a-icon type="calendar" theme="twoTone" />
-          <div class="ant-card-head-title">{{ config.name }}温馨提醒您</div>
+          <div class="ant-card-head-title">我有个朋友:提醒您</div>
         </div>
       </div>
       <div class="ant-card-body">
@@ -106,11 +106,10 @@ export default {
     };
   },
   mounted () {
-    console.log('本项目在 github:https://github.com/QiFengg/kingfeng 进行分发 喜欢的话麻烦给个start 谢谢~')
     console.log('By:qifeng https://github.com/QiFengg')
   },
   async created () {
-    document.title = 'KingFeng - 登录页面'
+    document.title = '我有个朋友 - 登录页面'
 
     const uid = localStorage.getItem('uid')
     const adminkey = localStorage.getItem('adminkey')
