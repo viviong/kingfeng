@@ -3,7 +3,7 @@
     <div class="ant-card-head">
       <div class="ant-card-head-wrapper">
         <a-icon type="calendar" theme="twoTone" />
-        <div class="ant-card-head-title">作者温馨提醒您</div>
+        <div class="ant-card-head-title">我有个朋友:提醒您</div>
       </div>
     </div>
     <div class="ant-card-body">
@@ -12,10 +12,10 @@
         <p>{{ p2 }}</p>
         <div style="display：inline;">
           本项目在
-          <a @click="open('https://github.com/QiFengg/kingfeng')">Github</a>
+          <a @click="open('https://mp.weixin.qq.com/cgi-bin/showqrcode?ticket=gQEB8DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAydmlCc0VSMDVjWEQxb2E5eWh4Y04AAgQK-DphAwQAjScA')">公众号</a>
           和
-          <a @click="open('https://github.com/QiFengg/kingfeng')">TG频道</a>
-          进行分发✨
+          <a @click="open('https://jq.qq.com/?_wv=1027&k=wRrFAqTv')">QQ群</a>
+          进行资产查看✨
         </div>
       </div>
     </div>
