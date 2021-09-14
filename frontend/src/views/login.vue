@@ -7,7 +7,7 @@
       <div class="ant-card-head">
         <div class="ant-card-head-wrapper">
           <a-icon type="calendar" theme="twoTone" />
-          <div class="ant-card-head-title">我有个朋友:提醒您</div>
+          <div class="ant-card-head-title">{{ config.name }}:提醒您</div>
         </div>
       </div>
       <div class="ant-card-body">
