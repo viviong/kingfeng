@@ -15,7 +15,6 @@ KingFeng 仅支持 qinglong 2.9+
 
 不提供 `技术上的任何帮助`
 
-[TG 频道](https://t.me/joinchat/H3etBWYzLKpiMWVl)    [TG 群组](https://t.me/joinchat/XV2AZcvzFIUxNjI9)
 ## 特性
 - [x] docker一键部署
 - [x] 支持wsck ptkey
