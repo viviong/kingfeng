@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Header title="KingFeng" />
+    <Header title="viviong" />
     <div id="app">
       <router-view />
     </div>
